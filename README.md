@@ -16,7 +16,6 @@ Real-time face blurring application with GUI interface. Detects faces using Open
 
 - Windows 10/11
 - Web camera
-- No additional installation required for .exe version
 
 ## Installation
 
